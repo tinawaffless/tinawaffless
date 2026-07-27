@@ -1,16 +1,35 @@
-## Hi there 👋
+<div data-importer="image" align="center">
+  <img data-importer="image" height="300" src="https://i.postimg.cc/VsjWY4cZ/09fae4879b5c83ac5620f3e0b75156fb.gif"  />
+</div>
 
-<!--
-**tinawaffless/tinawaffless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h3 data-importer="text" align="center">𝐕𝐚𝐦𝐩𝐢𝐫𝐞  𝐚𝐭 𝐭𝐡𝐞 𝐁𝐞𝐚𝐜𝐡</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p data-importer="text" align="left"></p>
+
+###
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="60" src="https://i.postimg.cc/jqmYbxtf/602c316fa0bc5b7e3e453a578e1d82e1.gif"  />
+</div>
+
+###
+
+<p data-importer="text" align="center">please don't copy my skins</p>
+
+###
+
+<br clear="both">
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="60" src="https://i.postimg.cc/jqmYbxtf/602c316fa0bc5b7e3e453a578e1d82e1.gif"  />
+</div>
+
+###
+
+<p data-importer="text" align="center">you can interact with me!</p>
+
+###
