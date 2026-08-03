@@ -17,7 +17,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="70" src="https://i.postimg.cc/jjW83xtz/9121ce8f32f8293d67bee500aa74caae.gif"  />
+  <img data-importer="image" height="70" src="https://i.postimg.cc/GpW1qSwy/a716834d898a08308722b1a69db48031.gif"  />
 </div>
 
 ###
@@ -29,7 +29,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="70" src="https://i.postimg.cc/jjW83xtz/9121ce8f32f8293d67bee500aa74caae.gif"  />
+  <img data-importer="image" height="70" src="https://i.postimg.cc/GpW1qSwy/a716834d898a08308722b1a69db48031.gif"  />
 </div>
 
 ###
@@ -37,6 +37,12 @@
 <br clear="both">
 
 <h5 data-importer="text" align="center">𝐜 + 𝐡</h5>
+
+###
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="70" src="https://i.postimg.cc/GpW1qSwy/a716834d898a08308722b1a69db48031.gif"  />
+</div>
 
 ###
 
