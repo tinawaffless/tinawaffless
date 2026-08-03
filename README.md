@@ -36,18 +36,6 @@
 
 <br clear="both">
 
-<h5 data-importer="text" align="center">(⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧</h5>
-
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="30" src="https://i.postimg.cc/GpW1qSwy/a716834d898a08308722b1a69db48031.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=tinawaffless.tinawaffless&left_color=beige&right_color=white&left_text=(,;%20%E2%A9%8C%20;,)"  />
 </div>
