@@ -1,7 +1,5 @@
-<br clear="both">
-
 <div data-importer="image" align="center">
-  <img data-importer="image" height="100" src="https://i.postimg.cc/FsDhbZTD/fccb27c95879cf23aa179981eafc0d31-edit-178013601479841.jpg"  />
+  <img data-importer="image" height="200" src="https://i.postimg.cc/FsDhbZTD/fccb27c95879cf23aa179981eafc0d31-edit-178013601479841.jpg"  />
 </div>
 
 ###
@@ -12,13 +10,33 @@
 
 ###
 
+<br clear="both">
+
+<h5 data-importer="text" align="center">𝐩𝐥𝐞𝐚𝐬𝐞 𝐝𝐨𝐧'𝐭 𝐜𝐨𝐩𝐲 𝐦𝐲 𝐬𝐤𝐢𝐧𝐬</h5>
+
+###
+
 <div data-importer="image" align="center">
-  <img data-importer="image" height="100" src="https://i.postimg.cc/9QGqFyxy/d23523898d488b3f629198ab63f9fbab.gif"  />
+  <img data-importer="image" height="70" src="https://i.postimg.cc/jjW83xtz/9121ce8f32f8293d67bee500aa74caae.gif"  />
 </div>
 
 ###
 
-<h5 data-importer="text" align="center">𝐩𝐥𝐞𝐚𝐬𝐞 𝐝𝐨𝐧'𝐭 𝐜𝐨𝐩𝐲 𝐦𝐲 𝐬𝐤𝐢𝐧𝐬 , 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐢𝐧𝐭𝐞𝐫𝐚𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞; 𝐢'𝐦 𝐟𝐫𝐢𝐞𝐧𝐝𝐥𝐲 <br>(⁠*⁠´⁠ω⁠｀⁠*⁠)</h5>
+<br clear="both">
+
+<h5 data-importer="text" align="center">𝐲𝐨𝐮 𝐜𝐚𝐧 𝐢𝐧𝐭𝐞𝐫𝐚𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞; 𝐢'𝐦 𝐟𝐫𝐢𝐞𝐧𝐝𝐥𝐲</h5>
+
+###
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="70" src="https://i.postimg.cc/jjW83xtz/9121ce8f32f8293d67bee500aa74caae.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h5 data-importer="text" align="center">𝐜 + 𝐡</h5>
 
 ###
 
@@ -28,19 +46,31 @@
 
 ###
 
+<br clear="both">
+
+<h5 data-importer="text" align="center">𝐦𝐞 𝐚𝐧𝐝 𝐦𝐲 𝐡𝐮𝐬𝐛𝐚𝐧𝐝 <br><𝟑</h5>
+
+###
+
 <div data-importer="image" align="center">
-  <img data-importer="image" height="100" src="https://i.postimg.cc/zGbFwdJk/3-sin-titulo-20260802211814.png"  />
+  <img data-importer="image" height="180" src="https://i.postimg.cc/zGbFwdJk/3-sin-titulo-20260802211814.png"  />
 </div>
 
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="100" src="https://i.postimg.cc/sx3R7Q7X/20260802-212849-0000.png"  />
+  <img data-importer="image" height="100" src="https://i.postimg.cc/TwLZbjK2/He-s-My-Mam-20260802-220302-0000.png"  />
 </div>
 
 ###
 
-<p data-importer="text" align="center">𝐡𝐨𝐭𝐝   𝐠𝐨𝐭   𝐚𝐬𝐨𝐚𝐢𝐟</p>
+<p data-importer="text" align="center">𝐡𝐨𝐭𝐝   𝐠𝐨𝐭   𝐚𝐬𝐨𝐚𝐢𝐟<br>✧⁠◝⁠(⁠⁰⁠▿⁠⁰⁠)⁠◜⁠✧</p>
+
+###
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://i.postimg.cc/FsDhbZTD/fccb27c95879cf23aa179981eafc0d31-edit-178013601479841.jpg"  />
+</div>
 
 ###
 
