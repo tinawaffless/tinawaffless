@@ -1,8 +1,5 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.postimg.cc/FsDhbZTD/fccb27c95879cf23aa179981eafc0d31-edit-178013601479841.jpg"  />
-</div>
 
-###
+  
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="100" src="https://i.postimg.cc/XYH65z1Q/2338ae612bb8fcc35fbcb5db9edfe2e6-edit-150293418960188.jpg"  />
@@ -64,12 +61,3 @@
 
 ###
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.postimg.cc/FsDhbZTD/fccb27c95879cf23aa179981eafc0d31-edit-178013601479841.jpg"  />
-</div>
-
-###
-
-<h6 data-importer="text" align="center"></h6>
-
-###
