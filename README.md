@@ -1,5 +1,11 @@
 <div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=tinawaffless.tinawaffless&left_color=darkcyan&right_color=darkcyan&left_text=:%EA%A3%93"  />
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=tinawaffless.tinawaffless&left_color=chocolate&right_color=beige&left_text=:%EA%A3%93"  />
+</div>
+
+###
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="30" src="https://i.postimg.cc/RCQNnWpf/b2b03ce0db027ff5a2321b75924625d8.gif"  />
 </div>
 
 ###
@@ -8,17 +14,13 @@
 
 ###
 
-<h6 data-importer="text" align="center">(˵◝ ⩊  ◜˵マ</h6>
-
-###
-
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.postimg.cc/15WRgPmy/70f0850846c5db35557dd70263187e08.gif"  />
+  <img data-importer="image" height="200" src="https://i.postimg.cc/PJGYf0xd/2c45a3e9838d4dc860a746a4c91b4664.gif"  />
 </div>
 
 ###
 
-<h6 data-importer="text" align="center">.</h6>
+<h6 data-importer="text" align="center">﹌﹌﹌﹌﹌﹌﹌﹌</h6>
 
 ###
 
@@ -34,16 +36,12 @@
 
 ###
 
-<h6 data-importer="text" align="center">.</h6>
+<h6 data-importer="text" align="center">﹌﹌﹌﹌﹌﹌﹌﹌</h6>
 
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.postimg.cc/X72NZ3jw/88a4293d81253448e7f9d84a379615cb.gif"  />
+  <img data-importer="image" height="30" src="https://i.postimg.cc/RCQNnWpf/b2b03ce0db027ff5a2321b75924625d8.gif"  />
 </div>
-
-###
-
-<h5 data-importer="text" align="center">ᯠ ⑅ ᯄ</h5>
 
 ###
